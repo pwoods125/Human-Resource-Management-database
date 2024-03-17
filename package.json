@@ -1,0 +1,17 @@
+{
+  "name": "human-resource-management-database",
+  "version": "1.0.0",
+  "description": "A database for storing important employee information.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ctable": "^0.0.3",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.9.2"
+  }
+}
